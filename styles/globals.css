@@ -36,7 +36,7 @@ width: 100%;
   font-size: 29px;
   font-weight: 600;
   margin: 60px 0px;
-  color: #f02d34;
+  color: #e3f02d;
 }
 .marquee {
   position: relative;
@@ -61,7 +61,7 @@ width: 100%;
 }
 
  span.text-red {
-    -webkit-text-stroke: 1px #f02d34;
+    -webkit-text-stroke: 1px #0779fa;
     margin-left: 6px;
 }
 .logo{
@@ -86,7 +86,7 @@ width: 100%;
   right: -8px;
   font-size: 12px;
   color: #eee;
-  background-color: #f02d34;
+  background-color: #c311e6;
   width: 18px;
   height: 18px;
   border-radius: 50%;
@@ -144,7 +144,7 @@ width: 100%;
 .hero-banner-container button{
    border-radius: 15px;
   padding: 10px 16px;
-  background-color: #f02d34;
+  background-color: #b92df0;
   color: white;
   border: none;
   margin-top: 40px;
@@ -212,7 +212,7 @@ text-align: end;
 }
 .footer-banner-container{
   padding: 100px 40px;
-  background-color: #f02d34;
+  background-color: #f02d2d;
   border-radius: 15px;
   position: relative;
   height: 400px;
